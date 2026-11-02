@@ -1,0 +1,14 @@
+{
+  "format": 1,
+  "shards": [
+    {
+      "id": "official",
+      "name": "Ultima Online (official, EA/OSI)",
+      "hosts": [
+        "75.2.70.184",
+        "13.248.219.129"
+      ]
+    }
+  ],
+  "scripts": []
+}
